@@ -1,4 +1,4 @@
-#Leetcode-852
+#Leetcode - 852
 class Solution:
     def peakIndexInMountainArray(self, arr: List[int]) -> int:
         low = 0
